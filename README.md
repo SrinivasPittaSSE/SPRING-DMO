@@ -1,2 +1,2 @@
-# SPRING-DMO
-SPRING DMO
+# inspinia
+Bootstrap admin theme
